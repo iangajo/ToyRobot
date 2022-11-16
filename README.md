@@ -6,7 +6,7 @@ Framework: .NET Core 6.0
 
 # Features
 Table - table instance where we place the report\
-Robot - robot instance where you can place, move or rotate
+Robot - robot instance where we can place, move or rotate
 
 # Commands
 - Place - Place the robot in the table.
