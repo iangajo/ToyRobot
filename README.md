@@ -5,7 +5,7 @@ Developer: Christian Gajo\
 Framework: .NET Core 6.0
 
 # Features
-Table - table instance where we place the report\
+Table - table instance where we place the robot, we can also specify the dimension of the table\
 Robot - robot instance where we can place, move or rotate
 
 # Commands
